@@ -14,12 +14,8 @@
 
 - 📫 Reach out to me at **gangabolashetti73@gmail.com**
 
-<h3 align="left">GitHub Stats:</h3>
-<div>
 
-<p>&nbsp;<img align="center" src="" alt="Ganga710" /></p>
-<br>
-</div>
+
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
